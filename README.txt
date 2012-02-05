@@ -1,3 +1,7 @@
+2012-02-05
+==========
+Ok - lets do some edits via another account, figuring that's how to get the opportunity to do a pull request.
+
 2012-02-04
 ==========
 1. Created scratch repo fresh on github:
