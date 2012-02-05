@@ -26,7 +26,16 @@
 4. Switch back to master to lose file changes, then back to branch to see them.
    - git checkout master
    - git checkout branch
-   Uncommitted changes prevent switching from from branch.
+   'git checkout' will refuse to switch away from branch with uncommitted changes.
+
+5. Pull the changes from the branch to the master:
+   - git checkout master
+     [stuff committed only on first_branch is not present in master branch]
+   - git pull . first_branch
+     [stuff committed only on first_branch is now present in master branch]
+   - [Edit README.txt while on master branch, and don't commit.]
+   - git checkout first_branch
+     [README.txt shows as Modified - carried to be committed in first_branch]
 
 5. Some questions.
    - Can I test push/pull with my own repository?
