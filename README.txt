@@ -23,6 +23,11 @@
      git commit -a -m "branched work"
      ['-a' to add all found changes]
 
-4. Some questions.
+4. Switch back to master to lose file changes, then back to branch to see them.
+   - git checkout master
+   - git checkout branch
+   Uncommitted changes prevent switching from from branch.
+
+5. Some questions.
    - Can I test push/pull with my own repository?
    - Is manual setup of 2. equivalent to what would have happened had I cloned?
