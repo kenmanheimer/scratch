@@ -18,8 +18,11 @@
      [now 'git branch' reveals new branch, but my checkout is on master]
    - git checkout first_branch
      [now 'git branch' reveals my checkout is on master]
-   - git commit -m "branched work"
+   - git commit -m "branched work" README.txt
+     *or* 
+     git commit -a -m "branched work"
+     ['-a' to add all found changes]
 
 4. Some questions.
    - Can I test push/pull with my own repository?
-   - Is that manual setup equivalent to 
+   - Is manual setup of 2. equivalent to what would have happened had I cloned?
