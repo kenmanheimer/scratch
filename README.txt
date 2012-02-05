@@ -43,6 +43,10 @@
    first_branch with changes in README.txt.  Not sure why I can now and not
    before.
 
+7. Push the changes to the github repo (origin):
+   - git push origin master
+   Woo hoo!
+
 Some questions.
-   - Can I test push/pull with my own repository?
+   - Can I do a pull request to the remote repo if it's my own?
    - Is manual setup of 2. equivalent to what would have happened had I cloned?
