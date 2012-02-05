@@ -1,5 +1,5 @@
 2012-02-04
-
+==========
 1. Created scratch repo fresh on github:
    https://github.com/kenmanheimer/scratch
 2. Following instructions presented on the resulting page
@@ -12,3 +12,14 @@
    - git commit -m 'first commit'
    - git remote add origin git@github.com:kenmanheimer/scratch.git
    - git push -u origin master
+
+3. Work on a branch:
+   - git branch first_branch
+     [now 'git branch' reveals new branch, but my checkout is on master]
+   - git checkout first_branch
+     [now 'git branch' reveals my checkout is on master]
+   - git commit -m "branched work"
+
+4. Some questions.
+   - Can I test push/pull with my own repository?
+   - Is that manual setup equivalent to 
