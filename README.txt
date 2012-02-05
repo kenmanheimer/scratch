@@ -6,8 +6,9 @@
    - mkdir scratch
    - cd scratch
    - git init
-   - touch README (doing README.txt)
-   - git add README (README.txt) (could use Emacs magit-status 'add command')
+   - touch README [doing README.txt]
+   - git add README [README.txt] [could use Emacs magit-status 'add command']
+     [to remove it before commit, 'git rm -f README']
    - git commit -m 'first commit'
    - git remote add origin git@github.com:kenmanheimer/scratch.git
    - git push -u origin master
