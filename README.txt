@@ -50,3 +50,6 @@
 Some questions.
    - Can I do a pull request to the remote repo if it's my own?
    - Is manual setup of 2. equivalent to what would have happened had I cloned?
+
+I need to get acquainted with git fetch, FETCH_HEAD vs. HEAD, 'git rebase',
+and much more.
