@@ -1,5 +1,11 @@
-2012-12-10 - Any way to get multiple paragraphs in a bullet with staking them all in a single one and dividing with &gt;br/&lt;&gt;br/&lt;?
+2012-12-10 - Any way to get multiple paragraphs in a bullet with staking them all in a single one and dividing with &lt;br/&gt;&lt;br/&gt;?
 
 * The <code>tools/build_platforms</code> script uses the results of (and machinery from) the <code>tools/prep_release</code> script to assemble and compile platform-specific executable application packages in the <code>releases/PhoneGap</code> subdirectory.  It takes the same set of variant specifiers as the <code>prep_release</code> script.
 
-    Unlike the latter, <code>build_platforms</code> does nothing if no variants at all are selected.  You can explicitly get all variants built, without enumerating all the variant selectors, by passing the flag <code>--all</code>. <br/><br/> <code>build_platforms</code> currently uses the respective platform SDK to build the platform-specific packages.  There is also a relatively new !PhoneGap resource that provides [https://build.phonegap.com/ cloud build services] for all our concerned platforms.  There are administrative project, propriety, and monetary decisions to address before making the technical arrangements.  I've checked a preliminary, untested <code>config.xml</code> in to the <code>release_artifacts/PhoneGap</code> subdirectory to build on, if we decide to use this service.
+  Unlike the latter, <code>build_platforms</code> does nothing if no variants at all are selected.  You can explicitly get all variants built, without enumerating all the variant selectors, by passing the flag <code>--all</code>.
+  
+  <code>build_platforms</code> currently uses the respective platform SDK to build the platform-specific packages.  There is also a relatively new !PhoneGap resource that provides [https://build.phonegap.com/ cloud build services] for all our concerned platforms.  There are administrative project, propriety, and monetary decisions to address before making the technical arrangements.  I've checked a preliminary, untested <code>config.xml</code> in to the <code>release_artifacts/PhoneGap</code> subdirectory to build on, if we decide to use this service.
+* A second bullet
+* A third
+
+Afterwards.
