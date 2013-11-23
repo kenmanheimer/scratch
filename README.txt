@@ -48,7 +48,7 @@
    Woo hoo!
 
 8. Gratuitous changes to test commits, shakeout authentication.  A bit
-   more. 3.
+   more. 3. 4.
 
 
 Some questions.
