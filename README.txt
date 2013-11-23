@@ -47,7 +47,7 @@
    - git push origin master
    Woo hoo!
 
-8. Gratuitous changes to test commits, shakeout authentication.
+8. Gratuitous changes to test commits, shakeout authentication.  A bit more.
 
 Some questions.
    - Can I do a pull request to the remote repo if it's my own?
