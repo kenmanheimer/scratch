@@ -47,6 +47,8 @@
    - git push origin master
    Woo hoo!
 
+8. Gratuitous changes to test commits, shakeout authentication.
+
 Some questions.
    - Can I do a pull request to the remote repo if it's my own?
    - Is manual setup of 2. equivalent to what would have happened had I cloned?
