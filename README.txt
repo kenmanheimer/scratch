@@ -50,6 +50,7 @@
 8. Gratuitous changes to test commits, shakeout authentication.  A bit
    more. 3. 4. 5.
 
+9. 2014-07-07 testing commits after auth tweak.
 
 Some questions.
    - Can I do a pull request to the remote repo if it's my own?
