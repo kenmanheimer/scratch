@@ -50,11 +50,13 @@
 8. Gratuitous changes to test commits, shakeout authentication.  A bit
    more. 3. 4. 5.
 
-9. 2014-07-07 testing commits after auth tweak.
+9. 2014-07-07 testing commits after auth tweak. Yay - seems aok!
 
 Some questions.
    - Can I do a pull request to the remote repo if it's my own?
+     - 2014-07-07 yes - if I'm understand the question...
    - Is manual setup of 2. equivalent to what would have happened had I cloned?
+     - 2014-07-07 i suppose i could use github's machinery to create a skeleton, and then be able to clone, avoid having to locally init.
 
 I need to get acquainted with git fetch, FETCH_HEAD vs. HEAD, 'git rebase',
 and much more.
