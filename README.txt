@@ -60,3 +60,9 @@ Some questions.
 
 I need to get acquainted with git fetch, FETCH_HEAD vs. HEAD, 'git rebase',
 and much more.
+
+10. 2014-11-18
+    - Interesting to see ho much experience I've gained with git and github since then.
+      I still have gaps to fill - most glaringly, need to master my understanding and use of rebase - but
+      I'm comfortable with both the in-repo and forking styles of development. Emacs magit helps!
+      Anyway, I want to poke around a little with minor (markdown) issue and pull request features.
