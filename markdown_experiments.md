@@ -1,3 +1,10 @@
+# Primary Header
+
+Stuff.
+
+## Second level header
+## And another second level
+
 2012-12-10 - Any way to get multiple paragraphs in a bullet with staking them all in a single one and dividing with &lt;br/&gt;&lt;br/&gt;?
 
 * The <code>tools/build_platforms</code> script uses the results of (and machinery from) the <code>tools/prep_release</code> script to assemble and compile platform-specific executable application packages in the <code>releases/PhoneGap</code> subdirectory.  It takes the same set of variant specifiers as the <code>prep_release</code> script.
