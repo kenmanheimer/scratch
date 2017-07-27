@@ -16,3 +16,8 @@ Stuff.
 * A third
 
 Afterwards.
+
+## Links to headers
+
+* [Absolute Second Level Header link](https://github.com/kenmanheimer/scratch/blob/master/markdown_experiments.md#second-level-header)
+* [Relative Second Level Header link](markdown_experiments.md#second-level-header)
